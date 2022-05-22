@@ -2,7 +2,6 @@ package utfpr.td.tsi.doacoes;
 
 import lombok.*;
 import utfpr.td.tsi.doador.Doador;
-import utfpr.td.tsi.item.Item;
 
 import java.time.LocalDate;
 
