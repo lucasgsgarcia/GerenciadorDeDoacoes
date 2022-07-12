@@ -1,3 +1,3 @@
 # Spring_HATEOAS_GerenciadorDeDoacoes
 
-Projeto extenso em String utilizando HATEOAS.
+Projeto extenso em Spring utilizando HATEOAS.
